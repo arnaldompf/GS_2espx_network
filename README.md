@@ -24,7 +24,7 @@ O trabalho é dividido em duas partes principais: **rede IPv4 no Packet Tracer**
 |----------------|---------------|----------------|----------------|
 | Data Lab       | 192.168.100.2 | 192.168.100.6  | 192.168.100.1  |
 | AI Services    | 192.168.100.10| 192.168.100.14 | 192.168.100.9  |
-| Users/Frontend | 192.168.100.18| 192.168.100.22 | 192.168.100.17 |
+| Users          | 192.168.100.18| 192.168.100.22 | 192.168.100.17 |
 
 ### 🔹 Topologia
 - Todos os hosts conectados ao switch
@@ -62,5 +62,13 @@ docker run -d \
   -v ${PWD}/site/:/usr/share/nginx/html:ro \
   nginx:latest
 ```
+## Evidências - Prints
 
+Aperte [aqui](https://docs.google.com/document/d/1oJIaRPWUQDZvA0b9dWX1ecK2wtoX4ptkTabOEeZxKeY/edit?tab=t.0) para visualizar screenshots evidenciando o funcionamento.
+
+## Integrantes 
+
+- Arnaldo Filho -    RM 555780
+- Erick Fujita -     RM 556096
+- Augusto Barros - RM 565065
 
